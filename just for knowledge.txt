@@ -1,0 +1,44 @@
+What is the difference between data science and statistics?
+
+
+Data science and statistics both have analysing backgrounds, which is why both of them are sometimes misunderstood to be one. But there is a fine blur line between the two fields. Statistics is a vital part of the broader data science. In fact, based on various factors, there’s a long list of differences between data science and statistics. Some of the points that can be used to understand the difference between data science vs statistics are:
+
+The amount of data handled:
+
+Data science is a change in the approach to handling an abundant amount of data. It is a field that is largely associated with dealing with large databases. It is because of the amount of data that data scientists cannot check all the possible assumptions.
+
+Statistics, on the other hand, focuses closely on small chunks of data. The process model of statistics includes closely studying each input/ predictor and monitoring how it impacts the output. Any uncertainty is precisely quantified because small training data can cause many confusing results.
+
+The problems that they solve:
+
+Clearly, one of the biggest differences between data science and statistics is their use for specific problems. Data science is often used to solve problems that require predictions and insights. Data scientists’ end-goal is to analyze a specific problem or database to help make insightful decisions. Data science solves business-focused problems and helps determine trends and patterns in a large set of data. It uses several fields such as computer science, data engineering, machine learning, statistics, to name a few, to interpret data.
+
+Statistics is used to solve problems at a much broader level by quantifying uncertainty. It focuses more on what data is causing what changes and how to collect such data. The primary focus of statistics is to use mathematical analysis to create rational and quantifiable models such as tables, charts, and other similar representations.
+
+Approach and data model:
+
+Data science problems are commonly solved using a predictive model. Data scientists determine the accuracy of predictive models, and then the best model is selected to solve the problem. The huge volume of data in data science is broken down into proper sets before using it to solve problems.
+
+In contrast to this, statistics problems are solved by a simple linear model, which is then improved to give the best results. Since the data used for statistics is not very large, the problems are solved using tools such as median, variance analysis, regression, etc.
+
+Background study required for the fields:
+
+The difference between data science and statistics is clearly shown by the people working in their respective fields. Data scientists have a background in engineering and are also well equipped with both programming and data analysis. They should have adequate knowledge to analyze large data sets and use them to solve complex problems.
+
+Statisticians are more from a purely mathematical background and are not well versed with programming knowledge but have great statistical abilities. A statistician knows how to solve problems with quantitative analysis using mathematical formulas and methods.
+
+Potential applications:
+
+Data science has numerous applications, majorly in the fields where predictive data analysis is needed. Some of these sectors include healthcare, market analysis, and finance.
+
+Various statistics applications are found in the fields of commerce and trade, astronomy, and psychology.
+
+There is a lot of difference between data science and statistics. However, there is no debate between data science vs statistics, as both fields are essential and have their own sets of problem-solving capabilities. Both fields are closely related to each other. However, looking at the unprecedented rate at which data is growing in today’s world, data science is and will continue to gain a lot more traction than the traditional statistics. Hence, it is essential to learn data science for analysis to survive in this competitive world.
+
+
+
+
+
+
+
+

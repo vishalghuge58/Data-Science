@@ -1,0 +1,26 @@
+Intro Probability By Edex
+Data Science math skills by Courseera
+Descriptive & Inferntial Statistics'By Udacity
+Statistics & Probablity By Khan Acadamy 
+
+
+Patric JMT youtube
+
+
+
+
+
+
+Statistics Needed for Data Science
+
+Statistics is a very broad field and has a lot of applications in many fields. It is a study of collecting, analyzing, interpreting, presenting, and organizing the data. 
+The important topics are probability distributions, statistical significance, hypothesis testing, and regression.
+Machine Learning also requires an understanding of Bayesian thinking.This concept is used in many machine learning algorithms.
+
+These are the three steps to learn Statistics and Probability that is required for data science:
+
+1. Core Statistical Concepts - Descriptive statistics, distributions, hypothesis testing, and regression.
+
+2. Bayesian Thinking - Conditional probability, priors, posteriors, and maximum likelihood.
+
+3. Intro to Statistical Machine Learning

@@ -1,1 +1,1 @@
-Collecting Various id's like adhar, pan card , passport and creating dataframe from it
+Gathering all the  id's from various images like adhar, pan card , passport  using OCR(pytesseract) and creating dataframe from it.
